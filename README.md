@@ -18,7 +18,7 @@ This repository contains a Python implementation of the classic Tetris game usin
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/tetris-ai.git
+   git clone https://github.com/chittchirag/tetris-ai.git
 
 **Navigate to the Project Directory:**
 bash:
